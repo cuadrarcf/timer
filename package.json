@@ -1,10 +1,10 @@
 {
-  "name": "untitled1",
+  "name": "timer1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js 30",
+    "start": "node index.js 25",
     "dev": "nodemon index.js 30",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
