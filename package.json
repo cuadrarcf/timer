@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "figlet": "^1.3.0",
-    "node-notifier": "^6.0.0",
+    "node-notifier": "^8.0.1",
     "nodemon": "^2.0.2"
   }
 }
